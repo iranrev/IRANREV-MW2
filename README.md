@@ -6,7 +6,7 @@ IRAN REV OLD Used MW2 was based on AIW broken leaked code, Fixed and improved by
 
 # Improvement by Hosseinpourziyaie
 - [C] Fixed DLC2 Load
-- [+] Added NameChanger Form for First Lunch
+- [+] Added NameChanger Form for First launch
 - [C] Fixed Hack Disclaimer and made comforta by CheckBox
 - [C] Fix Serverlist fetch + Serverlist UI
 - [C] and Fixed some more bugs
