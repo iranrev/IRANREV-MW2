@@ -65,7 +65,7 @@
 			<Tool
 				Name="VCLinkerTool"
 				AdditionalOptions="/ignore:4248"
-				AdditionalDependencies="detours.lib ws2_32.lib crashrpt.lib json.lib"
+				AdditionalDependencies="detours.lib ws2_32.lib crashrpt.lib"
 				LinkIncremental="2"
 				AdditionalLibraryDirectories="&quot;$(SolutionDir)\dependencies\lib&quot;"
 				GenerateDebugInformation="true"
