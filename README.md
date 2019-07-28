@@ -15,8 +15,8 @@ IRAN REV OLD Used MW2 was based on AIW broken leaked code, Fixed and improved by
 - [+] Ported Branding Patchs from NTA 4D1 Code
 
 # Features
-Windows 10 Compatibe
-Light Weight Client
+- Windows 10 Compatibe
+- Light Weight Client
 
 # Compile
 use vs2010 through 2013 to compile (vs2013 recommended) 
