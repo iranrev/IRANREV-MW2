@@ -1,0 +1,46 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "steam_api", "steam_api\steam_api.vcxproj", "{7140F695-1415-4FA7-B89F-80B06CAC16B0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|Mixed Platforms = Debug|Mixed Platforms
+		Debug|Win32 = Debug|Win32
+		Dedicated|Any CPU = Dedicated|Any CPU
+		Dedicated|Mixed Platforms = Dedicated|Mixed Platforms
+		Dedicated|Win32 = Dedicated|Win32
+		Release|Any CPU = Release|Any CPU
+		Release|Mixed Platforms = Release|Mixed Platforms
+		Release|Win32 = Release|Win32
+		Ship|Any CPU = Ship|Any CPU
+		Ship|Mixed Platforms = Ship|Mixed Platforms
+		Ship|Win32 = Ship|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7140F695-1415-4FA7-B89F-80B06CAC16B0}.Debug|Any CPU.ActiveCfg = Debug|Win32
+		{7140F695-1415-4FA7-B89F-80B06CAC16B0}.Debug|Mixed Platforms.ActiveCfg = Debug|Win32
+		{7140F695-1415-4FA7-B89F-80B06CAC16B0}.Debug|Mixed Platforms.Build.0 = Debug|Win32
+		{7140F695-1415-4FA7-B89F-80B06CAC16B0}.Debug|Win32.ActiveCfg = Debug|Win32
+		{7140F695-1415-4FA7-B89F-80B06CAC16B0}.Debug|Win32.Build.0 = Debug|Win32
+		{7140F695-1415-4FA7-B89F-80B06CAC16B0}.Dedicated|Any CPU.ActiveCfg = Dedicated|Win32
+		{7140F695-1415-4FA7-B89F-80B06CAC16B0}.Dedicated|Mixed Platforms.ActiveCfg = Dedicated|Win32
+		{7140F695-1415-4FA7-B89F-80B06CAC16B0}.Dedicated|Mixed Platforms.Build.0 = Dedicated|Win32
+		{7140F695-1415-4FA7-B89F-80B06CAC16B0}.Dedicated|Win32.ActiveCfg = Dedicated|Win32
+		{7140F695-1415-4FA7-B89F-80B06CAC16B0}.Dedicated|Win32.Build.0 = Dedicated|Win32
+		{7140F695-1415-4FA7-B89F-80B06CAC16B0}.Release|Any CPU.ActiveCfg = Release|Win32
+		{7140F695-1415-4FA7-B89F-80B06CAC16B0}.Release|Mixed Platforms.ActiveCfg = Release|Win32
+		{7140F695-1415-4FA7-B89F-80B06CAC16B0}.Release|Mixed Platforms.Build.0 = Release|Win32
+		{7140F695-1415-4FA7-B89F-80B06CAC16B0}.Release|Win32.ActiveCfg = Release|Win32
+		{7140F695-1415-4FA7-B89F-80B06CAC16B0}.Release|Win32.Build.0 = Release|Win32
+		{7140F695-1415-4FA7-B89F-80B06CAC16B0}.Ship|Any CPU.ActiveCfg = Ship|Win32
+		{7140F695-1415-4FA7-B89F-80B06CAC16B0}.Ship|Mixed Platforms.ActiveCfg = Ship|Win32
+		{7140F695-1415-4FA7-B89F-80B06CAC16B0}.Ship|Mixed Platforms.Build.0 = Ship|Win32
+		{7140F695-1415-4FA7-B89F-80B06CAC16B0}.Ship|Win32.ActiveCfg = Ship|Win32
+		{7140F695-1415-4FA7-B89F-80B06CAC16B0}.Ship|Win32.Build.0 = Ship|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

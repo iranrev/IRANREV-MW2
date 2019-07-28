@@ -1,0 +1,203 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hpp;hxx;hm;inl;inc;xsd</Extensions>
+    </Filter>
+    <Filter Include="libtomcrypt">
+      <UniqueIdentifier>{b9167143-25a7-456e-9bb9-9066cfc2e5fc}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="apptools.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="callbacks.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="HackDisclaimer.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Hooking.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="IniReader.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="patch_legacy_ping.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="patch_mw2.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="patch_mw2_datadump.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="patch_mw2_ooey.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="patch_mw2_serverlist.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="patch_mw2_universalknowledge.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="patch_mw2_weaponry.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="patch_on_a_string.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="stdafx.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="ui_mw2.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="validate_mw2.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="validate_remote.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="libtomcrypt\crypt_argchk.cpp">
+      <Filter>libtomcrypt</Filter>
+    </ClCompile>
+    <ClCompile Include="libtomcrypt\sha512.cpp">
+      <Filter>libtomcrypt</Filter>
+    </ClCompile>
+    <ClCompile Include="steam_api.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="NameChanger.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="mw2.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="patch_mw2_musicaltalent.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="patch_mw2_branding.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="patch_mw2_newsticker.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="diskinfo.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="hwid.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="base64.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Utils.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="HackDisclaimer.h">
+      <Filter>Source Files</Filter>
+    </ClInclude>
+    <ClInclude Include="apptools.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="callbacks.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Hooking.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="IniReader.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="stdafx.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="SteamAPIHook.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="ui_mw2.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="libtomcrypt\tomcrypt.h">
+      <Filter>libtomcrypt</Filter>
+    </ClInclude>
+    <ClInclude Include="libtomcrypt\tomcrypt_argchk.h">
+      <Filter>libtomcrypt</Filter>
+    </ClInclude>
+    <ClInclude Include="libtomcrypt\tomcrypt_cfg.h">
+      <Filter>libtomcrypt</Filter>
+    </ClInclude>
+    <ClInclude Include="libtomcrypt\tomcrypt_cipher.h">
+      <Filter>libtomcrypt</Filter>
+    </ClInclude>
+    <ClInclude Include="libtomcrypt\tomcrypt_custom.h">
+      <Filter>libtomcrypt</Filter>
+    </ClInclude>
+    <ClInclude Include="libtomcrypt\tomcrypt_hash.h">
+      <Filter>libtomcrypt</Filter>
+    </ClInclude>
+    <ClInclude Include="libtomcrypt\tomcrypt_mac.h">
+      <Filter>libtomcrypt</Filter>
+    </ClInclude>
+    <ClInclude Include="libtomcrypt\tomcrypt_macros.h">
+      <Filter>libtomcrypt</Filter>
+    </ClInclude>
+    <ClInclude Include="libtomcrypt\tomcrypt_math.h">
+      <Filter>libtomcrypt</Filter>
+    </ClInclude>
+    <ClInclude Include="libtomcrypt\tomcrypt_misc.h">
+      <Filter>libtomcrypt</Filter>
+    </ClInclude>
+    <ClInclude Include="libtomcrypt\tomcrypt_pk.h">
+      <Filter>libtomcrypt</Filter>
+    </ClInclude>
+    <ClInclude Include="libtomcrypt\tomcrypt_pkcs.h">
+      <Filter>libtomcrypt</Filter>
+    </ClInclude>
+    <ClInclude Include="libtomcrypt\tomcrypt_prng.h">
+      <Filter>libtomcrypt</Filter>
+    </ClInclude>
+    <ClInclude Include="patch_mw2.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="NameChanger.h">
+      <Filter>Source Files</Filter>
+    </ClInclude>
+    <ClInclude Include="resource.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="mw2.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="diskinfo.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="hwid.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="base64.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Utils.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="HackDisclaimer.resx" />
+    <EmbeddedResource Include="NameChanger.resx" />
+  </ItemGroup>
+  <ItemGroup>
+    <Text Include="Notes.txt">
+      <Filter>Source Files</Filter>
+    </Text>
+  </ItemGroup>
+</Project>
