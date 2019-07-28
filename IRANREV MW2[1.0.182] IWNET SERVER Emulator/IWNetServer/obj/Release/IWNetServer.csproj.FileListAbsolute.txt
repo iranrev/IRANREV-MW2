@@ -1,0 +1,19 @@
+C:\Users\Hossein\Desktop\alterIWnet\IranRevolution Mw2\iwnetserver\iwnet\IWNetServer\bin\Release\IWNetServer.exe.config
+C:\Users\Hossein\Desktop\alterIWnet\IranRevolution Mw2\iwnetserver\iwnet\IWNetServer\bin\Release\IWNetServer.exe
+C:\Users\Hossein\Desktop\alterIWnet\IranRevolution Mw2\iwnetserver\iwnet\IWNetServer\bin\Release\IWNetServer.pdb
+C:\Users\Hossein\Desktop\alterIWnet\IranRevolution Mw2\iwnetserver\iwnet\IWNetServer\bin\Release\Coroutine.dll
+C:\Users\Hossein\Desktop\alterIWnet\IranRevolution Mw2\iwnetserver\iwnet\IWNetServer\bin\Release\Coroutine.pdb
+C:\Users\Hossein\Desktop\alterIWnet\IranRevolution Mw2\iwnetserver\iwnet\IWNetServer\obj\Release\IWNetServer.Properties.Resources.resources
+C:\Users\Hossein\Desktop\alterIWnet\IranRevolution Mw2\iwnetserver\iwnet\IWNetServer\obj\Release\IWNetServer.csproj.GenerateResource.Cache
+C:\Users\Hossein\Desktop\alterIWnet\IranRevolution Mw2\iwnetserver\iwnet\IWNetServer\obj\Release\IWNetServer.exe
+C:\Users\Hossein\Desktop\alterIWnet\IranRevolution Mw2\iwnetserver\iwnet\IWNetServer\obj\Release\IWNetServer.pdb
+D:\savegame & patch & mods\Programming\Umbrella Mw2\IRANREVOLUTION_Win_1.1.0\ServerSide\iwnetserver\iwnet\IWNetServer\bin\Release\IWNetServer.exe.config
+D:\savegame & patch & mods\Programming\Umbrella Mw2\IRANREVOLUTION_Win_1.1.0\ServerSide\iwnetserver\iwnet\IWNetServer\obj\Release\IWNetServer.exe
+D:\savegame & patch & mods\Programming\Umbrella Mw2\IRANREVOLUTION_Win_1.1.0\ServerSide\iwnetserver\iwnet\IWNetServer\obj\Release\IWNetServer.pdb
+D:\savegame & patch & mods\Programming\Umbrella Mw2\IRANREVOLUTION_Win_1.1.0\ServerSide\iwnetserver\iwnet\IWNetServer\bin\Release\IWNetServer.exe
+D:\savegame & patch & mods\Programming\Umbrella Mw2\IRANREVOLUTION_Win_1.1.0\ServerSide\iwnetserver\iwnet\IWNetServer\bin\Release\IWNetServer.pdb
+D:\savegame & patch & mods\Programming\Umbrella Mw2\IRANREVOLUTION_Win_1.1.0\ServerSide\iwnetserver\iwnet\IWNetServer\bin\Release\Coroutine.dll
+D:\savegame & patch & mods\Programming\Umbrella Mw2\IRANREVOLUTION_Win_1.1.0\ServerSide\iwnetserver\iwnet\IWNetServer\bin\Release\Coroutine.pdb
+D:\savegame & patch & mods\Programming\Umbrella Mw2\IRANREVOLUTION_Win_1.1.0\ServerSide\iwnetserver\iwnet\IWNetServer\obj\Release\IWNetServer.csprojResolveAssemblyReference.cache
+D:\savegame & patch & mods\Programming\Umbrella Mw2\IRANREVOLUTION_Win_1.1.0\ServerSide\iwnetserver\iwnet\IWNetServer\obj\Release\IWNetServer.Properties.Resources.resources
+D:\savegame & patch & mods\Programming\Umbrella Mw2\IRANREVOLUTION_Win_1.1.0\ServerSide\iwnetserver\iwnet\IWNetServer\obj\Release\IWNetServer.csproj.GenerateResource.Cache
